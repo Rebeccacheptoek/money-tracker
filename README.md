@@ -38,6 +38,23 @@ API runs at `http://127.0.0.1:8000/api`
 | GET | `/api/wallets/{id}` | View wallet with balance and transactions |
 | POST | `/api/transactions` | Add an income or expense transaction |
 
+## API Screenshots
+
+### Create User
+![Create User](screenshots/create-user.png)
+
+### Create Wallet
+![Create Wallet](screenshots/create-wallet.png)
+
+### Add Transaction
+![Add Transaction](screenshots/add-transaction.png)
+
+### View User Profile
+![User Profile](screenshots/view-user-profile.png)
+
+### View Wallet
+![View Wallet](screenshots/view-wallet.png)
+
 ## Running Tests
 
 ```bash
